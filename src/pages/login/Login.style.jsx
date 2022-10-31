@@ -3,7 +3,7 @@ import Flex from "../../components/globalStyles/Flex.style";
 
 export const LoginContainer = styled(Flex)`
   height: 100vh;
-  background-image: url("https://picsum.photos/1600/900");
+  background-image: url("https://www.flickr.com/photos/vincega/10543622455/in/set-72157634365555650");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -13,7 +13,7 @@ export const FormContainer = styled(Flex)`
   width: 40rem;
   height: 40rem;
   max-width: 50rem;
-  background: rgba(0, 173, 181, 0.5);
+  background: #baabda;
   border-radius: 50%;
   border: 2px solid #e1f1dd;
   padding: 0.5rem;
